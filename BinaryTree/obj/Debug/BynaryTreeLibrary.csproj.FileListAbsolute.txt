@@ -1,0 +1,6 @@
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task3\BinaryTree\bin\Debug\BinaryTree.dll
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task3\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task3\BinaryTree\obj\Debug\BynaryTreeLibrary.csprojAssemblyReference.cache
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task3\BinaryTree\obj\Debug\BynaryTreeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task3\BinaryTree\obj\Debug\BinaryTree.dll
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task3\BinaryTree\obj\Debug\BinaryTree.pdb

@@ -1,0 +1,6 @@
+C:\Users\BogdanHristich\source\repos\Exercise 3\BinaryTree\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\BogdanHristich\source\repos\Exercise 3\BinaryTree\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\BogdanHristich\source\repos\Exercise 3\BinaryTree\bin\Debug\BinaryTree.dll
+C:\Users\BogdanHristich\source\repos\Exercise 3\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\BogdanHristich\source\repos\Exercise 3\BinaryTree\obj\Debug\BinaryTree.dll
+C:\Users\BogdanHristich\source\repos\Exercise 3\BinaryTree\obj\Debug\BinaryTree.pdb
